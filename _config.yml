@@ -73,7 +73,8 @@ author:
 
 footer:
   links:
-    - icon: "fab fa-fw fa-x"
+    - label: " "
+      icon: "fab fa-fw fa-x"
       url: "https://x.com/Milanov_Bobby"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
