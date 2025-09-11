@@ -3,9 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-# Portfolio
-
-## About Me
 Linux administrator & automation enthusiast.
 
 ## Work experience
