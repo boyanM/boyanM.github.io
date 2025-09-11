@@ -74,8 +74,8 @@ author:
 footer:
   links:
     - label: " "
-      icon: "fab fa-fw fa-x"
-      url: "https://x.com/Milanov_Bobby"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/boyan-milanov-712306167/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/boyanM"
