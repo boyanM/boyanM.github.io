@@ -8,19 +8,19 @@ tags:
 
 gallery:
   - url: /assets/images/athens/IMG_20240204_175608.jpg
-    image_path: /assets/images/IMG_20240204_175608.jpg
+    image_path: /assets/images/athens/IMG_20240204_175608.jpg
     alt: "Mount Parnitha"
     title: "Mount Parnitha with the boyzz Pano and Fafa"
   - url: /assets/images/athens/IMG_20240415_122829393_HDR.jpg
-    image_path: /assets/images/IMG_20240415_122829393_HDR.jpg
+    image_path: /assets/images/athens/IMG_20240415_122829393_HDR.jpg
     alt: "Ancient Corinth - Roman Palace"
     title: "Roman palace and villas in Corinth"
   - url: /assets/images/athens/IMG_20240415_140411624_HDR.jpg
-    image_path: /assets/images/IMG_20240415_140411624_HDR.jpg
+    image_path: /assets/images/athens/IMG_20240415_140411624_HDR.jpg
     alt: "Corinth Caste on top of the mountain - Acrocorinth"
     title: "Tony biggest fear positive elevation"
   - url: /assets/images/athens/IMG_20240417_153700.jpg
-    image_path: /assets/images/IMG_20240417_153700.jpg
+    image_path: /assets/images/athens/IMG_20240417_153700.jpg
     alt: "wonderful Poros"
     title: "The beauty of island Poros"
 --- 
