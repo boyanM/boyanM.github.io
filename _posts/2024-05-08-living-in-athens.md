@@ -5,10 +5,9 @@ categories:
 tags:
   - Travel
   - Expression
----
-# 
+--- 
 
-**Success Notice:** All museums are free for visitors under 25 — a great perk if you love culture and history!
+All museums are free for visitors under 25 — a great perk if you love culture and history!
 {: .notice--success}
 
 ## The Fun Stuff 🌞
@@ -20,7 +19,7 @@ Athens has plenty to offer beyond its iconic ruins:
 - **Local Markets & Food:** Flea and street markets (“Laiki”) pop up every few days. Fresh fish and meat from Omonia’s shops are a must.
 - **Amazing Cuisine:** Greek food is everything you’d expect — fresh, flavorful, and soul-satisfying.
 
-**Info Notice:** I’d say the most popular online shopping platform in Greece — similar to Amazon in the US or eBay in parts of Western Europe — is [skroutz.gr](https://skroutz.gr).
+I’d say the most popular online shopping platform in Greece — similar to Amazon in the US or eBay in parts of Western Europe — is [skroutz.gr](https://skroutz.gr).
 {: .notice--info}
 
 ## The Not-So-Fun Stuff 😿
@@ -50,8 +49,10 @@ Here’s what you can expect if you plan to stay long-term:
 -   **Groceries:** Fair prices overall; fresh fish is especially affordable.
 -   **Housing:** €350–€500 for a room in a fully furnished apartment. (Check [spitogatos.gr](https://spitogatos.gr) or [xe.gr](https://xe.gr)).
 -   **Utility Bills:** €90-€130 per person including electricity, water and heating at the winter. 
-**Info Notice:** Just a heads-up — electricity bills are issued quarterly (every 3 months).
+
+Just a heads-up — electricity bills are issued quarterly (every 3 months).
 {: .notice--info}
+
 -   **Medical Services:** €50 per GP or dentist visit, or free if you’re patient enough to navigate the public health system.
 -   **Public Transport:** €27 per month (airport rides not included). The transportation is mehh.
 -   **Eating Out:** Around €30–€40 for a salad, main dish, and dessert.
@@ -69,6 +70,6 @@ If you’re planning to work in tech while in Athens, here’s the reality:
 
 Everything I’ve shared here comes from my 9 months of living in Athens, Greece. During that time, I learned a lot, leveled up my survival skills, and met some truly amazing people — some of whom I now work with professionally, and others who have become very close friends (shoutout to Chief Fafa — the best!).
 
-I eventually moved back to my home country, Bulgaria, for many reasons. The biggest ones were that the overall level of development of the country isn’t drastically different, I wanted to be closer to family and friends, and I found the professional scene in Greece to be less promising than in Bulgaria (at least in late 2023 and early 2024).
+I eventually moved back to my home country, Bulgaria, for many reasons. The biggest ones were that the overall level of development of Greece isn’t drastically different, I wanted to be closer to family and friends, and I found the professional scene in Greece to be less promising than in Bulgaria (at least in late 2023 and early 2024).
 
 Still, Athens holds a special place in me, and I’ll definitely keep returning — whether for vacations or to reconnect with the  people I met there.
