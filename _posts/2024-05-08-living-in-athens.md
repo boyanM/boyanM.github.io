@@ -74,3 +74,21 @@ Everything I’ve shared here comes from my 9 months of living in Athens, Greece
 I eventually moved back to my home country, Bulgaria, for many reasons. The biggest ones were that the overall level of development of Greece isn’t drastically different, I wanted to be closer to family and friends, and I found the professional scene in Greece to be less promising than in Bulgaria (at least in late 2023 and early 2024).
 
 Still, Athens holds a special place in me, and I’ll definitely keep returning — whether for vacations or to reconnect with the  people I met there.
+
+gallery:
+  - url: /assets/images/athens/IMG_20240204_175608.jpg
+    image_path: /assets/images/IMG_20240204_175608.jpg
+    alt: "Mount Parnitha"
+    title: "Mount Parnitha with the boyzz Pano and Fafa"
+  - url: /assets/images/athens/IMG_20240415_122829393_HDR.jpg
+    image_path: /assets/images/IMG_20240415_122829393_HDR.jpg
+    alt: "Ancient Corinth - Roman Palace"
+    title: "Roman palace and villas in Corinth"
+- url: /assets/images/athens/IMG_20240415_140411624_HDR.jpg
+    image_path: /assets/images/IMG_20240415_140411624_HDR.jpg
+    alt: "Corinth Caste on top of the mountain - Acrocorinth"
+    title: "Tony biggest fear positive elevation"
+  - url: /assets/images/athens/IMG_20240417_153700.jpg
+    image_path: /assets/images/IMG_20240417_153700.jpg
+    alt: "wonderful Poros"
+    title: "The beauty of island Poros"
