@@ -92,3 +92,5 @@ gallery:
     image_path: /assets/images/IMG_20240417_153700.jpg
     alt: "wonderful Poros"
     title: "The beauty of island Poros"
+
+{% include gallery caption="A few snapshots from my time in Athens" %}
