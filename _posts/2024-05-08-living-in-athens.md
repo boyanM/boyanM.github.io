@@ -6,6 +6,7 @@ tags:
   - Travel
   - Expression
 --- 
+Life in Athens is an adventure of its own - full with a lot of experiences, delicious food and a few challenges along the way.
 
 All museums are free for visitors under 25 — a great perk if you love culture and history!
 {: .notice--success}
